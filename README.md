@@ -3,4 +3,6 @@
      
       - #Agrupar dados em R
         * [Agrupando](https://github.com/lumimevi/R-Script-/blob/master/Agrupar%20dados%20no%20R.R)
+      - #Basico de R
+        * [Matriz](https://github.com/lumimevi/R-Script-/blob/master/Matrizes)
        
