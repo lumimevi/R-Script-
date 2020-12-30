@@ -12,5 +12,5 @@
         
 -   **data base**
         - #Weather data 
-            * [data](https://github.com/lumimevi/R-Script-/blob/master/data.xls)
+            (https://github.com/lumimevi/R-Script-/blob/master/data.xls)
        
